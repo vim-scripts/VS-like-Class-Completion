@@ -1,0 +1,16 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=675
+
+class Test
+{
+public:
+  int getValue() { return 0 };
+};
+int main( void )
+{
+  Test *test;
+  test->_
+}
+--------------
+type <c-space> over the cursor for completing members.
+and, next member will be completed with typing <c-n> or <c-p>.
+
